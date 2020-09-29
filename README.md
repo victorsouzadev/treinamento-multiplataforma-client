@@ -1,6 +1,6 @@
 # Visualização de fichas de treinamentos
 
-Um aplicativo complementar ao [Gerenciamento (fichas) de treinamentos](https://github.com/victorsouzadev/gerenciamento-treinamento-academia) que tem como função exibir as fichas de treinos para os clientes.
+Um aplicativo complementar ao [Gerenciamento (fichas) de treinamentos](https://github.com/victorsouzadev/gerenciamento-treinamento-academia) que tem como função exibir as fichas de treinos para os clientes independentemente da plataforma utilizada (Android ou IOS).
 
 
 <p align="center">
